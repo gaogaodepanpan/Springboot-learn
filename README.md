@@ -2,11 +2,9 @@
 ## Spring Data JPA
 
 day1:orm-hibernate
+
 mysql :
 
-database:jap
-
-table:
 ```mysql
 CREATE DATABASE IF NOT EXISTS jpa DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
 CREATE TABLE `cst_customer`  (
