@@ -3,7 +3,7 @@
 
 day1:orm-hibernate
 
-mysql :
+mysql 5.X:
 
 ```mysql
 CREATE DATABASE IF NOT EXISTS jpa DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
